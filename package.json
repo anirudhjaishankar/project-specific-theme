@@ -1,0 +1,18 @@
+{
+  "name": "project-specific-theme",
+  "main": "./lib/project-specific-theme",
+  "version": "1.0.0",
+  "description": "A simple theme manager. Specific project. Specific theme.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "project-specific-theme:toggle"
+  },
+  "repository": "https://github.com/atom/project-specific-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
