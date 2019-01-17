@@ -1,10 +1,9 @@
 {
   "name": "project-specific-theme",
   "main": "./lib/project-specific-theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple theme manager. Specific project. Specific theme.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "project-specific-theme:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
