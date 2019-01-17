@@ -1,4 +1,4 @@
-# project-specific-theme package
+# project-specific-theme package (for Atom Text Editor) 
 
 Sets specific theme for specific project.
 Enable it and forget about changing themes everytime you shift to another project. Just hit toggle from **Packages->project-specific-theme->toggle** or **ctrl+alt+a** when atom open your project to change it to custom theme.
