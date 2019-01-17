@@ -5,6 +5,11 @@ Enable it and forget about changing themes everytime you shift to another projec
 
 ###Note: If you're using git add the 'theme.json' file in your project directory to '.gitignore' file manually.
 
+###Note:Make sure only one instance of atom is running and close other projects before toggling this package. Otherwise, **all the project themes will be set to this theme**.
+
+##Example
+![Example](sample.gif)
+
 ##Contibutions :sunglasses:
 * Fork the repo.
 * Push changes.
