@@ -22,4 +22,4 @@ Note: This package doesn't come with any pre built theme, so if you uninstall th
 
 Made with :heart: and :coffee:
 
-License: [MIT](https://opensource.org/licenses/MIT)
+License: [MIT](https://github.com/anirudhjaishankar/project-specific-theme/blob/master/LICENSE.md)
